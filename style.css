@@ -8,3 +8,34 @@ header{
 #title{
     height: 90px;
 }
+#form{
+    margin-left: 480px;
+    margin-top: 50px;
+}
+#data-text  {
+    margin-top: 0;
+    top :195px;
+    position: absolute;
+}
+#date-text{
+    margin-top: 0;
+    top: 230px;
+    position: absolute;
+}
+#time-text{
+    margin-top: 0;
+    top: 262px;
+    position: absolute;
+}
+#note-input , #date-input , #time-input{
+    margin-left: 75px;
+    width: 525px;
+}
+#set{
+    margin-top: 36px;
+    margin-left: 470px;
+}
+#reset{
+    margin-top: 36px;
+    margin-left: 5px;
+}
