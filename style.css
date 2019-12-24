@@ -39,3 +39,33 @@ header{
     margin-top: 36px;
     margin-left: 5px;
 }
+#note-img{
+    height: 350px;
+    width: 350px;
+    
+}
+#Notes .new{
+    position: relative;
+    margin-left: 50px;
+    display: inline-block;
+    text-align: center;
+}
+
+#note-body  {
+    width: 290px;
+    height: 240px;
+    position: relative;
+    top: -320px;
+    left: 0px;
+    overflow: auto;
+}
+#date-time{
+    position: relative;
+    top: -310px;
+    left: -90px;
+}
+i{
+    position: relative;
+    left: 130px;
+    cursor: pointer;
+}
